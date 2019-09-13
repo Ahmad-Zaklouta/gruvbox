@@ -1023,6 +1023,25 @@ hi! link pythonRepeat GruvboxRed
 hi! link pythonDottedName GruvboxGreenBold
 
 " }}}
+
+hi! link vhdlSpecial	GruvboxOrangeBold
+hi! link vhdlStatement   GruvboxRedBold
+hi! link vhdlCharacter   GruvboxGreen
+hi! link vhdlString	GruvboxGreen
+hi! link vhdlVector	GruvboxGreen
+hi! link vhdlBoolean	GruvboxGreen
+hi! link vhdlTodo	GruvboxAqua
+hi! link vhdlFixme	GruvboxAqua
+hi! link vhdlComment	GruvboxBlue
+hi! link vhdlNumber	GruvboxGreen
+hi! link vhdlTime	GruvboxGreen
+hi! link vhdlType	GruvboxYellow
+hi! link vhdlOperator    GruvboxOrangeBold
+hi! link vhdlError	Error
+hi! link vhdlAttribute   GruvboxOrangeBold
+hi! link vhdlPreProc	GruvboxAqua
+
+
 " CSS: {{{
 
 hi! link cssBraces GruvboxBlue
